@@ -1,0 +1,23 @@
+{
+	"ProjectName": "AWSpop",
+	"ProjectPath": "/Users/Oscar/Documents/Github/React/AWSpop",
+	"SourceDir": "src",
+	"DistributionDir": "build",
+	"BuildCommand": "npm run-script build",
+	"StartCommand": "npm run-script start",
+	"InitializationTime": "2018-02-27-11-52-14",
+	"LastConfigurationTime": "",
+	"LastNPMInstallTime": "",
+	"FrontendLastBuildTime": "",
+	"LastPublishTime": "",
+	"BackendFormat": "yml",
+	"BackendLastSyncTime": "",
+	"BackendLastBuildTime": "",
+	"BackendLastPushTime": "",
+	"BackendLastPushSuccessful": false,
+	"BackendProjectID": "",
+	"BackendProjectName": "",
+	"BackendProjectConsoleUrl": "",
+	"BackendProjectCreationTime": "",
+	"BackendProjectLastUpdatedTime": ""
+}

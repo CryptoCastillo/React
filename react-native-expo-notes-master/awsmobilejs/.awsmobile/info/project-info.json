@@ -1,0 +1,23 @@
+{
+	"ProjectName": "react-native-expo-notes-master",
+	"ProjectPath": "/Users/Oscar/Documents/Github/React/react-native-expo-notes-master",
+	"SourceDir": "/Users/Oscar/Documents/Github/React/react-native-expo-notes-master",
+	"DistributionDir": "build",
+	"BuildCommand": "npm run-script build",
+	"StartCommand": "npm run-script start",
+	"InitializationTime": "2018-02-27-12-19-49",
+	"LastConfigurationTime": "2018-02-27-12-20-44",
+	"LastNPMInstallTime": "",
+	"FrontendLastBuildTime": "",
+	"LastPublishTime": "",
+	"BackendFormat": "yml",
+	"BackendLastSyncTime": "",
+	"BackendLastBuildTime": "",
+	"BackendLastPushTime": "",
+	"BackendLastPushSuccessful": false,
+	"BackendProjectID": "",
+	"BackendProjectName": "",
+	"BackendProjectConsoleUrl": "",
+	"BackendProjectCreationTime": "",
+	"BackendProjectLastUpdatedTime": ""
+}
